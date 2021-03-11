@@ -1,5 +1,5 @@
 export const MainSection = () => (
-    <div className="p-32 flex flex-row justify-center">
+    <div className="p-16 flex flex-row justify-center">
         <img src="./20170304_STP002_0.jpg" alt="background"/>
         <div className="p-1 bg-gray-200">
             <input placeholder="Enter Search Keywords"/>
