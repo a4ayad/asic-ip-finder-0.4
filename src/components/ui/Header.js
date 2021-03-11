@@ -1,7 +1,7 @@
 export const Header =() => (
 
-    <div className=" justify-center w-screen bg-blue-400 p-5 overflow-auto items-center ">
-        <div className="mb-5 bg-purple-400">
+    <div className="justify-center w-screen bg-blue-400 p-2 overflow-auto items-center ">
+        <div className="mb-16 bg-purple-400">
             <ul className="flex flex-row">
                 <li className="m-1 font-bold text-2xl bg-green-500 p-2 hover:bg-blue-500">
                     <h1>ASIC IP Finder</h1>
