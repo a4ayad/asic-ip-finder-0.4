@@ -1,0 +1,15 @@
+insert into users (id, full_name, email) values (1, 'Creight Pedroli', 'cpedroli0@mit.edu');
+insert into users (id, full_name, email) values (2, 'Roxy Voss', 'rvoss1@so-net.ne.jp');
+insert into users (id, full_name, email) values (3, 'Titos Towll', 'ttowll2@bloomberg.com');
+insert into users (id, full_name, email) values (4, 'Sydel Newcomb', 'snewcomb3@imgur.com');
+insert into users (id, full_name, email) values (5, 'Stephine Gawler', 'sgawler4@buzzfeed.com');
+insert into users (id, full_name, email) values (6, 'Fania Abbots', 'fabbots5@icio.us');
+insert into users (id, full_name, email) values (7, 'Georgiana Ashbrook', 'gashbrook6@amazonaws.com');
+insert into users (id, full_name, email) values (8, 'Phillida Shambroke', 'pshambroke7@ehow.com');
+insert into users (id, full_name, email) values (9, 'Anders Hammor', 'ahammor8@trellian.com');
+insert into users (id, full_name, email) values (10, 'Joli Dulin', 'jdulin9@github.io');
+insert into users (id, full_name, email) values (11, 'Shoshana Airdrie', 'sairdriea@yelp.com');
+insert into users (id, full_name, email) values (12, 'Risa Roddy', 'rroddyb@ox.ac.uk');
+insert into users (id, full_name, email) values (13, 'Micky Davitashvili', 'mdavitashvilic@nifty.com');
+insert into users (id, full_name, email) values (14, 'Sue Bloxam', 'sbloxamd@vkontakte.ru');
+insert into users (id, full_name, email) values (15, 'Chanda Pepperill', 'cpepperille@hp.com');

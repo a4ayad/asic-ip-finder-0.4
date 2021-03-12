@@ -5,7 +5,6 @@ function App() {
   return (
     <Switch>
       <Route exact path="/" component={Home}/>
-      <Route exact path="/asic_ips" component={RecentASIC_IPs}/>
         <Route exact path="/search" component={ASIC_IP_Search}/>
         <Route exact path="/recent" component={RecentASIC_IPs}/>
     </Switch>

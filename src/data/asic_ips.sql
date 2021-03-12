@@ -1,0 +1,15 @@
+insert into asic_ips (id, name, category, vendor, description) values (1, 'Bitchip', 'jcb', 'Flashdog', 'Yellow');
+insert into asic_ips (id, name, category, vendor, description) values (2, 'Tresom', 'diners-club-enroute', 'Thoughtbeat', 'Teal');
+insert into asic_ips (id, name, category, vendor, description) values (3, 'Rank', 'instapayment', 'Photojam', 'Fuscia');
+insert into asic_ips (id, name, category, vendor, description) values (4, 'Alphazap', 'jcb', 'Pixonyx', 'Teal');
+insert into asic_ips (id, name, category, vendor, description) values (5, 'Greenlam', 'mastercard', 'Gabtype', 'Purple');
+insert into asic_ips (id, name, category, vendor, description) values (6, 'Span', 'laser', 'Npath', 'Yellow');
+insert into asic_ips (id, name, category, vendor, description) values (7, 'Tin', 'jcb', 'Mudo', 'Red');
+insert into asic_ips (id, name, category, vendor, description) values (8, 'Y-find', 'americanexpress', 'Voomm', 'Yellow');
+insert into asic_ips (id, name, category, vendor, description) values (9, 'Rank', 'jcb', 'Buzzbean', 'Crimson');
+insert into asic_ips (id, name, category, vendor, description) values (10, 'Viva', 'visa', 'InnoZ', 'Red');
+insert into asic_ips (id, name, category, vendor, description) values (11, 'Kanlam', 'visa', 'Divape', 'Mauv');
+insert into asic_ips (id, name, category, vendor, description) values (12, 'Zontrax', 'diners-club-enroute', 'Jayo', 'Khaki');
+insert into asic_ips (id, name, category, vendor, description) values (13, 'Keylex', 'jcb', 'Thoughtbeat', 'Orange');
+insert into asic_ips (id, name, category, vendor, description) values (14, 'Rank', 'jcb', 'Vimbo', 'Indigo');
+insert into asic_ips (id, name, category, vendor, description) values (15, 'Cookley', 'mastercard', 'Aivee', 'Pink');
