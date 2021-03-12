@@ -1,10 +1,12 @@
+import {Link} from "react-router-dom";
+
 export const Header =() => (
 
     <div className="justify-center w-screen bg-blue-400 p-2 overflow-auto items-center ">
         <div className="mb-16 bg-purple-400">
             <ul className="flex flex-row">
                 <li className="m-1 font-bold text-2xl bg-green-500 p-2 hover:bg-blue-500">
-                    <h1>ASIC IP Finder</h1>
+                    <Link to="/"><h1>ASIC IP Finder</h1></Link>
                 </li>
                 <li className="m-1 text-1xl p-2 bg-blue-400 hover:bg-pink-500">
                     <div className="dropdown">
@@ -41,6 +43,16 @@ export const Header =() => (
                             <a href="#">Directors</a>
                         </div>
                     </div>
+                </li>
+                <li className="m-1 text-1xl p-2 bg-blue-400 hover:bg-pink-500">
+                    <button className="p-2 font-bold">
+                        <Link to="/search">Search</Link>
+                    </button>
+                </li>
+                <li className="m-1 text-1xl p-2 bg-blue-400 hover:bg-pink-500">
+                    <button className="p-2 font-bold">
+                        <Link to="/recent">Recently Released IPs</Link>
+                    </button>
                 </li>
                 <li className="m-1 text-2xl bg-yellow-200 p-2 hover:bg-blue-500">
                     <a href="./login-register.html">Login/Register</a>
